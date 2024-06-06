@@ -49328,7 +49328,7 @@ body {
   border: 0;
 }
 .nav-line-tabs .nav-item .nav-link.active, .nav-line-tabs .nav-item .nav-link:hover:not(.disabled), .nav-line-tabs .nav-item.show .nav-link{
-    background-color: rgba(var(--bs-primary-rgb)) !important; 
+    /* background-color: rgba(var(--bs-primary-rgb)) !important;  */
     border: 0;
     border-bottom: 1px solid #009ef7; 
     transition: color 0.2s ease, background-color 0.2s ease;
