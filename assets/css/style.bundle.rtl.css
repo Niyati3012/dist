@@ -47154,7 +47154,7 @@ body {
 }
 .aside-menu .menu .menu-item .menu-link.active {
   transition: color 0.2s ease, background-color 0.2s ease;
-  background-color: #009EF7;
+  background-color: #51516f;
   color: #ffffff;
 }
 .aside-menu .menu .menu-item .menu-link.active .menu-title {
@@ -49973,4 +49973,12 @@ body {
   background-color: #F5F8FA !important;
   border: 1px solid #F5F8FA !important;
   border-radius: 0.475rem;
+}
+.btn-theme{
+background-color: #4d4d69 !important;
+}
+.aside-menu .menu .menu-item .menu-link.active {
+  transition: color 0.2s ease, background-color 0.2s ease;
+  background-color: #51516f !important;
+  color: #fff;
 }
